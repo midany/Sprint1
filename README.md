@@ -1,5 +1,5 @@
 # angular-seed-project
-A seed project using Nebular framework in Angular 5.
+A starter native Angular 5 and Bootstrap 4 template using Nebular framework for Angular.
 
 #### Technology:
 
